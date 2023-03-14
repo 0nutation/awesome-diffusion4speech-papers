@@ -13,7 +13,7 @@
 
 - **Diff-tts: A denoising diffusion model for text-to-speech** (INTERSPEECH 2021), Jeong et al. [[pdf]](https://arxiv.org/abs/2104.01409)
 
-- **Grad-tts: A diffusion probabilistic model for text-to-speech** (ICML2021), Popov et al. [[pdf]](https://proceedings.mlr.press/v139/popov21a.html)
+- **Grad-tts: A diffusion probabilistic model for text-to-speech** (ICML 2021), Popov et al. [[pdf]](https://proceedings.mlr.press/v139/popov21a.html)
 
 - **DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism** (21.05), Liu et al. [[pdf]](https://arxiv.org/abs/2105.02446)
 
@@ -27,7 +27,7 @@
 
 - **FastDiff 2: Dually Incorporating GANs into Diffusion Models for High-Quality Speech Synthesis**(22.09), Huang et al. [[pdf]](https://openreview.net/forum?id=-x5WuMO4APy) 
 
-- **Guided-tts: A diffusion model for text-to-speech via classifier guidance** (ICML2022), Kim et al. [[pdf]](https://proceedings.mlr.press/v162/kim22d.html)
+- **Guided-tts: A diffusion model for text-to-speech via classifier guidance** (ICML 2022), Kim et al. [[pdf]](https://proceedings.mlr.press/v162/kim22d.html)
 
 - **Guided-tts 2: A diffusion model for high-quality adaptive text-to-speech with untranscribed data** (22.05), Kim et al. [[pdf]](https://arxiv.org/abs/2205.15370)
 
@@ -52,7 +52,7 @@
 - **Cold Diffusion for Speech Enhancement** (22.11), Yen et al. [[pdf]](https://arxiv.org/abs/2211.02527)
 
 ### Voice Conversion
-- **Diffsvc: A diffusion probabilistic model for singing voice conversion** (ASRU2021), Liu et al. [[pdf]](https://ieeexplore.ieee.org/abstract/document/9688219/)
+- **Diffsvc: A diffusion probabilistic model for singing voice conversion** (ASRU 2021), Liu et al. [[pdf]](https://ieeexplore.ieee.org/abstract/document/9688219/)
 
 ### Audio generation
 - **Diffsound: Discrete diffusion model for text-to-sound generation** (22.07), Yang et al. [[pdf]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=WNiojyAAAAAJ&sortby=pubdate&citation_for_view=WNiojyAAAAAJ:roLk4NBRz8UC)
