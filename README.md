@@ -47,9 +47,9 @@
 
 - **Universal speech enhancement with score-based diffusion**(22.06), Serrà et al. [[pdf]](https://arxiv.org/abs/2206.03065)
 
-- Speech enhancement and dereverberation with diffusion-based generative models(22.08), Richter et al. [[pdf]](https://arxiv.org/abs/2208.05830)
+- **Speech enhancement and dereverberation with diffusion-based generative models**(22.08), Richter et al. [[pdf]](https://arxiv.org/abs/2208.05830)
 
-- Cold Diffusion for Speech Enhancement(22.11), Yen et al. [[pdf]](https://arxiv.org/abs/2211.02527)
+- **Cold Diffusion for Speech Enhancement**(22.11), Yen et al. [[pdf]](https://arxiv.org/abs/2211.02527)
 
 ### Voice Conversion
 - **Diffsvc: A diffusion probabilistic model for singing voice conversion**(ASRU2021), Liu et al. [[pdf]](https://ieeexplore.ieee.org/abstract/document/9688219/)
