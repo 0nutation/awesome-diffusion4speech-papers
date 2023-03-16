@@ -19,6 +19,9 @@
 
 - **Diffgan-tts: High-fidelity and efficient text-to-speech with denoising diffusion gans** (22.01), Liu et al. [[pdf]](https://arxiv.org/abs/2201.11972)
 
+
+- **BDDM: Bilateral denoising diffusion models for fast and high-quality speech synthesis** (ICLR 2022), W.Y.Lam et al. [[pdf]](https://arxiv.org/abs/2203.13508)
+
 - **Prodiff: Progressive fast diffusion model for high-quality text-to-speech** (ACMMM 2022), Huang et al. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3547855)
 
 - **Zero-shot voice conditioning for denoising diffusion tts models** (22.06), Levkovitch et al. [[pdf]](https://arxiv.org/abs/2206.02246)
@@ -33,12 +36,22 @@
 
 - **Prosody-TTS: Self-Supervised Prosody Pretraining with Latent Diffusion For Text-to-Speech** (22.09), Huang et al. [[pdf]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=iRHBUsgAAAAJ&citation_for_view=iRHBUsgAAAAJ:MXK_kJrjxJIC)
 
-- **BDDM: Bilateral denoising diffusion models for fast and high-quality speech synthesis** (ICLR 2022), W.Y.Lam et al. [[pdf]](https://arxiv.org/abs/2203.13508)
+- **GAN You Hear Me? Reclaiming Unconditional Speech Synthesis from Diffusion Models** (22.10), Baas et al. [[pdf]](https://arxiv.org/pdf/2210.05271)
+ 
+- **EmoDiff: Intensity Controllable Emotional Text-to-Speech with Soft-Label Guidance** (22.11), Kang et al. [[pdf]](https://arxiv.org/pdf/2211.09383.pdf)
+
+- **Grad-StyleSpeech: Any-speaker Adaptive Text-to-Speech Synthesis with Diffusion Models** (22.11), Kang et al. [[pdf]](https://arxiv.org/pdf/2211.09383)
+
+- **NoreSpeech: Knowledge Distillation based Conditional Diffusion Model for Noise-robust Expressive TTS** (22.11), Yang et al. [[pdf]](https://arxiv.org/pdf/2211.02448)
 
 - **ResGrad: Residual Denoising Diffusion Probabilistic Models for Text to Speech** (22.12), Chen et al. [[pdf]](https://arxiv.org/abs/2212.14518)
 
+- **Text-to-speech synthesis based on latent variable conversion using diffusion probabilistic model and variational autoencoder** (22.12), Yasuda et al. [[pdf]](https://arxiv.org/pdf/2212.08329)
+
 - **InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt** (23.01), Yang et al. [[pdf]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=WNiojyAAAAAJ&sortby=pubdate&citation_for_view=WNiojyAAAAAJ:3fE2CSJIrl8C)
-  
+
+- **AN INVESTIGATION INTO THE ADAPTABILITY OF A DIFFUSION-BASED TTS MODEL** (23.03), Chen et al. [[pdf]](https://arxiv.org/pdf/2303.01849.pdf)
+
 ### Automatic Speech Recognition
 - **TransFusion: Transcribing Speech with Multinomial Diffusion** (22.10), Baas et al. [[pdf]](https://arxiv.org/pdf/2210.07677.pdf)
 
