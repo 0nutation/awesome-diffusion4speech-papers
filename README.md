@@ -17,6 +17,8 @@
 
 - **DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism** (21.05), Liu et al. [[pdf]](https://arxiv.org/abs/2105.02446)
 
+- **PRIORGRAD: IMPROVING CONDITIONAL DENOISING DIFFUSION MODELS WITH DATA-DEPENDENT ADAPTIVE PRIOR** (ICLR 2022), Lee et al. [[pdf]](https://arxiv.org/pdf/2106.06406.pdf)
+
 - **Diffgan-tts: High-fidelity and efficient text-to-speech with denoising diffusion gans** (22.01), Liu et al. [[pdf]](https://arxiv.org/abs/2201.11972)
 
 
