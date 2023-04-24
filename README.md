@@ -54,7 +54,7 @@
 
 - **AN INVESTIGATION INTO THE ADAPTABILITY OF A DIFFUSION-BASED TTS MODEL** (23.03), Chen et al. [[pdf]](https://arxiv.org/pdf/2303.01849.pdf)
 
-- **NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers** (23.04), Shen etal. [[pdf]](https://arxiv.org/pdf/2304.09116.pdf)
+- **NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers** (23.04), Shen et al. [[pdf]](https://arxiv.org/pdf/2304.09116.pdf)
 
 ### Automatic Speech Recognition
 - **TransFusion: Transcribing Speech with Multinomial Diffusion** (22.10), Baas et al. [[pdf]](https://arxiv.org/pdf/2210.07677.pdf)
