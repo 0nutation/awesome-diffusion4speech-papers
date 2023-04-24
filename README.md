@@ -54,6 +54,8 @@
 
 - **AN INVESTIGATION INTO THE ADAPTABILITY OF A DIFFUSION-BASED TTS MODEL** (23.03), Chen et al. [[pdf]](https://arxiv.org/pdf/2303.01849.pdf)
 
+- **NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers** (23.04), Shen etal. [[pdf]](https://arxiv.org/pdf/2304.09116.pdf)
+
 ### Automatic Speech Recognition
 - **TransFusion: Transcribing Speech with Multinomial Diffusion** (22.10), Baas et al. [[pdf]](https://arxiv.org/pdf/2210.07677.pdf)
 
@@ -68,6 +70,9 @@
 
 ### Voice Conversion
 - **Diffsvc: A diffusion probabilistic model for singing voice conversion** (ASRU 2021), Liu et al. [[pdf]](https://ieeexplore.ieee.org/abstract/document/9688219/)
+
+### Speech Edit
+- **AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models** (23.04), Wang et al. [[pdf]](https://export.arxiv.org/pdf/2304.00830)
 
 ### Audio generation
 - **Diffsound: Discrete diffusion model for text-to-sound generation** (22.07), Yang et al. [[pdf]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=WNiojyAAAAAJ&sortby=pubdate&citation_for_view=WNiojyAAAAAJ:roLk4NBRz8UC)
